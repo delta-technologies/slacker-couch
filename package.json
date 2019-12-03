@@ -1,5 +1,5 @@
 {
-  "name": "slacker-couch",
+  "name": "@delta-technologies/slacker-couch",
   "version": "0.1.0",
   "description": "Backend functions library for Slacker",
   "main": "couch.js",
@@ -19,5 +19,6 @@
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.3.5"
-  }
+  },
+  "devDependencies": {}
 }
