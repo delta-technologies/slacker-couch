@@ -1,6 +1,6 @@
 {
   "name": "@delta-technologies/slacker-couch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Backend functions library for Slacker",
   "main": "couch.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/delta-technologies/slacker-couch/issues"
   },
-  "homepage": "https://github.com/delta-technologies/slacker-couch#readme",
+  "homepage": "http://slackr.now.sh",
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.3.5"
